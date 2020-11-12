@@ -1,4 +1,4 @@
-## <img height="25" src="https://github.com/jeffersonassilva/jeffersonassilva/blob/main/icons/hi.gif"/> Hello world!
+## <img height="25" src="https://github.com/jeffersonassilva/jeffersonassilva/blob/main/assets/hi.gif"/> Hello world!
 
 I'm a young christian, INTJ personality, system developer, musician, chess player, passionate to carpentry, movies and logical reasoning!
 
