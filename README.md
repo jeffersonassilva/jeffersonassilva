@@ -1,16 +1,19 @@
-### Hi there 👋
+## <img height="25" src="https://github.com/jeffersonassilva/jeffersonassilva/blob/main/icons/hi.gif"/> Hello world!
 
-<!--
-**jeffersonassilva/jeffersonassilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a young christian, INTJ personality, system developer, musician, chess player, passionate to carpentry, movies and logical reasoning!
 
-Here are some ideas to get you started:
+- 👨‍💻 &nbsp;I’m currently working on [Engesoftware](https://www.engesoftware.com/)
+- 🎓 &nbsp;Graduated in Internet Systems with a focus on web systems development
+- 🌱 &nbsp;I’m currently learning Vue and React Native
+- 💬 &nbsp;Ask me about anything, I'm happy to help;
+- 📫 &nbsp;How to reach me: [@jeffersonassilva]
+- 📌 &nbsp;I live in Brasília, Brazil 🇧🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My GitHub Stats
+------------
+
+[![Shubham's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonassilva&layout=compact)](https://github.com/jeffersonassilva/)
+![Shubhams's github stats](https://github-readme-stats.vercel.app/api?username=jeffersonassilva&hide=["contribs","issues"]&show_icons=true)
+
+
+[@jeffersonassilva]: https://instagram.com/jeffersonassilva/
