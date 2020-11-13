@@ -12,8 +12,8 @@ I'm a young christian, INTJ personality, system developer, musician, chess playe
 My GitHub Stats
 ------------
 
-[![Shubham's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonassilva&layout=compact)](https://github.com/jeffersonassilva/)
-![Shubhams's github stats](https://github-readme-stats.vercel.app/api?username=jeffersonassilva&hide=["contribs","issues"]&show_icons=true)
+[![jeffersonassilva Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonassilva&layout=compact)](https://github.com/jeffersonassilva/)
+![jeffersonassilva github stats](https://github-readme-stats.vercel.app/api?username=jeffersonassilva&show_icons=true&hide=contribs,issues)
 
 
 [@jeffersonassilva]: https://instagram.com/jeffersonassilva/
