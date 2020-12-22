@@ -27,5 +27,7 @@ How to reach me
 My GitHub stats
 ------------
 
-[![jeffersonassilva Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonassilva&layout=compact)](https://github.com/jeffersonassilva/)
-![jeffersonassilva github stats](https://github-readme-stats.vercel.app/api?username=jeffersonassilva&show_icons=true&hide=contribs,issues)
+<div style="display: flex; align-items: flex-start;">
+    <div style="padding-right: 3px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonassilva&langs_count=10&layout=compact&count_private=true" alt="Most Used Languages"></div>
+    <div style="padding-left: 3px;"><img src="https://github-readme-stats.vercel.app/api?username=jeffersonassilva&count_private=true&show_icons=true&hide=contribs,issues" alt="Jefferson Silva's GitHub Stats"></div>
+</div>
