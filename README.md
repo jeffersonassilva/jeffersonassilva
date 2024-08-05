@@ -11,7 +11,6 @@
 
 I'm a young christian, INTJ personality, system developer, musician, chess player, passionate to carpentry, movies and logical reasoning!
 
-- 👨‍💻 &nbsp;I’m currently working on [Engesoftware](https://www.engesoftware.com/)
 - 🎓 &nbsp;Graduated in Internet Systems with a focus on web systems development
 - 🌱 &nbsp;I’m currently learning Vue and React Native
 - 💬 &nbsp;Ask me about anything, I'm happy to help;
