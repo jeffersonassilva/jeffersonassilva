@@ -12,7 +12,7 @@
 I'm a young christian, INTJ personality, system developer, musician, chess player, passionate to carpentry, movies and logical reasoning!
 
 - 🎓 &nbsp;Graduated in Internet Systems with a focus on web systems development
-- 🌱 &nbsp;I’m currently learning Vue and React Native
+- 🌱 &nbsp;I’m currently learning Java and React Native
 - 💬 &nbsp;Ask me about anything, I'm happy to help;
 - 📌 &nbsp;I live in Brasília, Brazil 🇧🇷
 
