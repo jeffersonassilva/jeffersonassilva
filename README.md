@@ -32,29 +32,33 @@ I'm a young Christian, INTJ personality, system developer, musician, chess playe
 
 #### Programming Languages
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="assets/php.webp" width="35px" />](https://www.php.net/ "PHP")
+[<img src="assets/php.webp" width="35px" />](https://www.php.net/ "PHP")
 [<img src="assets/java.webp" width="35px"/>](https://www.java.com/ "Java")
 [<img src="assets/javascript.webp" width="35px"/>](http://www.ecmascript.org/ "JavaScript")
 [<img src="assets/ruby.webp" width="35px"/>](https://www.ruby-lang.org/ "Ruby")
 
-- PHP
+<!-- - PHP
 - Java
 - JavaScript
 - Ruby
+-->
 
 #### Markup and Styling
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="assets/html.webp" width="35px" />](https://html.spec.whatwg.org/ "HTML")
+[<img src="assets/html.webp" width="35px" />](https://html.spec.whatwg.org/ "HTML")
 [<img src="assets/css.webp" width="35px"/>](https://www.w3.org/Style/CSS/ "CSS")
 [<img src="assets/tailwindcss.webp" width="35px"/>](https://tailwindcss.com/ "TailwindCSS")
+[<img src="assets/bootstrap.webp" width="35px"/>](https://getbootstrap.com/ "Bootstrap")
 
-- HTML
+<!-- - HTML
 - CSS
 - TailwindCSS
+- Bootstrap
+-->
 
 #### Frameworks and Libraries
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="assets/laravel.webp" width="35px"/>](https://laravel.com/ "Laravel")
+[<img src="assets/laravel.webp" width="35px"/>](https://laravel.com/ "Laravel")
 [<img src="assets/codeigniter.webp" width="35px"/>](https://codeigniter.com/ "CodeIgniter")
 [<img src="assets/spring.webp" width="35px"/>](https://spring.io/ "Spring")
 [<img src="assets/rails.webp" width="35px"/>](https://rubyonrails.org/ "Ruby on Rails")
@@ -63,6 +67,7 @@ I'm a young Christian, INTJ personality, system developer, musician, chess playe
 [<img src="assets/vuejs.webp" width="35px"/>](https://vuejs.org/ "Vue.js")
 [<img src="assets/nodejs.webp" width="35px"/>](https://nodejs.org/ "Node.js")
 
+<!--
 - Laravel (PHP)
 - CodeIgniter (PHP)
 - Spring (Java)
@@ -72,36 +77,39 @@ I'm a young Christian, INTJ personality, system developer, musician, chess playe
 - Angular (JavaScript)
 - Vue.js (JavaScript)
 - Node.js (JavaScript)
+-->
 
 #### Databases
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="assets/mysql.webp" width="35px"/>](https://www.mysql.com/ "MySQL")
+[<img src="assets/mysql.webp" width="35px"/>](https://www.mysql.com/ "MySQL")
 [<img src="assets/postgresql.webp" width="35px"/>](https://www.postgresql.org/ "PostgreSQL")
 [<img src="assets/sqlserver.webp" width="35px"/>](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "Microsoft SQL Server")
 [<img src="assets/oracledb.webp" width="35px"/>](https://www.oracle.com/database/technologies/ "Oracle DB")
 
+<!--
 - MySQL
 - PostgreSQL
 - SQL Server
 - Oracle DB
+-->
 
 #### Tools and Platforms
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="assets/git.webp" width="35px"/>](https://git-scm.com/ "Git")
+[<img src="assets/git.webp" width="35px"/>](https://git-scm.com/ "Git")
 [<img src="assets/docker.webp" width="35px"/>](https://www.docker.com/ "Docker")
 [<img src="assets/phpstorm.webp" width="35px"/>](https://www.jetbrains.com/pt-br/phpstorm/ "PhpStorm")
 [<img src="assets/vscode.webp" width="35px"/>](https://code.visualstudio.com/ "Visual Studio Code")
 [<img src="assets/jenkins.webp" width="35px"/>](https://www.jenkins.io/ "Jenkins")
 [<img src="assets/postman.webp" width="35px"/>](https://www.postman.com/ "Postman")
-[<img src="assets/tailwindcss.webp" width="35px"/>](https://tailwindcss.com/ "Tailwind CSS")
 
+<!--
 - Git
 - Docker
 - PhpStorm
 - Visual Studio Code
 - Jenkins
 - Postman
-- Tailwind CSS
+-->
 
 #### Other Skills
 
