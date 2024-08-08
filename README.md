@@ -32,10 +32,10 @@ I'm a young Christian, INTJ personality, system developer, musician, chess playe
 
 #### Programming Languages
 
-[<img src="assets/php.webp" width="35px"/>](https://www.php.net/)
-[<img src="assets/java.webp" width="35px"/>](https://www.java.com/)
-[<img src="assets/javascript.webp" width="35px"/>](http://www.ecmascript.org/)
-[<img src="assets/ruby.webp" width="35px"/>](https://www.ruby-lang.org/)
+[<img src="assets/php.webp" width="35px" />](https://www.php.net/ "PHP")
+[<img src="assets/java.webp" width="35px"/>](https://www.java.com/ "Java")
+[<img src="assets/javascript.webp" width="35px"/>](http://www.ecmascript.org/ "JavaScript")
+[<img src="assets/ruby.webp" width="35px"/>](https://www.ruby-lang.org/ "Ruby")
 
 - PHP
 - Java
@@ -44,14 +44,14 @@ I'm a young Christian, INTJ personality, system developer, musician, chess playe
 
 #### Frameworks and Libraries
 
-[<img src="assets/laravel.webp" width="35px"/>](https://laravel.com/)
-<img src="assets/codeigniter.webp" width="35px"/>
-<img src="assets/spring.webp" width="35px"/>
-<img src="assets/rails.webp" width="35px"/>
-<img src="assets/react.webp" width="35px"/>
-<img src="assets/angular.webp" width="35px"/>
-<img src="assets/vuejs.webp" width="35px"/>
-<img src="assets/nodejs.webp" width="35px"/>
+[<img src="assets/laravel.webp" width="35px"/>](https://laravel.com/ "Laravel")
+[<img src="assets/codeigniter.webp" width="35px"/>](https://codeigniter.com/ "CodeIgniter")
+[<img src="assets/spring.webp" width="35px"/>](https://spring.io/ "Spring")
+[<img src="assets/rails.webp" width="35px"/>](https://rubyonrails.org/ "Ruby on Rails")
+[<img src="assets/react.webp" width="35px"/>](https://react.dev/ "React")
+[<img src="assets/angular.webp" width="35px"/>](https://angular.dev/ "Angular")
+[<img src="assets/vuejs.webp" width="35px"/>](https://vuejs.org/ "Vue.js")
+[<img src="assets/nodejs.webp" width="35px"/>](https://nodejs.org/ "Node.js")
 
 - Laravel (PHP)
 - CodeIgniter (PHP)
@@ -65,10 +65,10 @@ I'm a young Christian, INTJ personality, system developer, musician, chess playe
 
 #### Databases
 
-[<img src="assets/mysql.webp" width="35px"/>](https://www.mysql.com/)
-<img src="assets/postgresql.webp" width="35px"/>
-<img src="assets/sqlserver.webp" width="35px"/>
-<img src="assets/oracledb.webp" width="35px"/>
+[<img src="assets/mysql.webp" width="35px"/>](https://www.mysql.com/ "MySQL")
+[<img src="assets/postgresql.webp" width="35px"/>](https://www.postgresql.org/ "PostgreSQL")
+[<img src="assets/sqlserver.webp" width="35px"/>](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "Microsoft SQL Server")
+[<img src="assets/oracledb.webp" width="35px"/>](https://www.oracle.com/database/technologies/ "Oracle DB")
 
 - MySQL
 - PostgreSQL
@@ -77,12 +77,12 @@ I'm a young Christian, INTJ personality, system developer, musician, chess playe
 
 #### Tools and Platforms
 
-[<img src="assets/git.webp" width="35px"/>](https://git-scm.com/)
-<img src="assets/docker.webp" width="35px"/>
-<img src="assets/phpstorm.webp" width="35px"/>
-<img src="assets/vscode.webp" width="35px"/>
-<img src="assets/jenkins.webp" width="35px"/>
-<img src="assets/postman.webp" width="35px"/>
+[<img src="assets/git.webp" width="35px"/>](https://git-scm.com/ "Git")
+[<img src="assets/docker.webp" width="35px"/>](https://www.docker.com/ "Docker")
+[<img src="assets/phpstorm.webp" width="35px"/>](https://www.jetbrains.com/pt-br/phpstorm/ "PhpStorm")
+[<img src="assets/vscode.webp" width="35px"/>](https://code.visualstudio.com/ "Visual Studio Code")
+[<img src="assets/jenkins.webp" width="35px"/>](https://www.jenkins.io/ "Jenkins")
+[<img src="assets/postman.webp" width="35px"/>](https://www.postman.com/ "Postman")
 
 - Git
 - Docker
