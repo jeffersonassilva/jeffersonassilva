@@ -31,15 +31,32 @@ I'm a young Christian, INTJ personality, system developer, musician, chess playe
 ## Skills and Technologies
 
 #### Programming Languages
+
+[<img src="assets/php.webp" width="35px" />](https://www.php.net/ "PHP")
+[<img src="assets/java.webp" width="35px"/>](https://www.java.com/ "Java")
+[<img src="assets/javascript.webp" width="35px"/>](http://www.ecmascript.org/ "JavaScript")
+[<img src="assets/ruby.webp" width="35px"/>](https://www.ruby-lang.org/ "Ruby")
+
 - PHP
 - Java
 - JavaScript
 - Ruby
 
 #### Frameworks and Libraries
+
+[<img src="assets/laravel.webp" width="35px"/>](https://laravel.com/ "Laravel")
+[<img src="assets/codeigniter.webp" width="35px"/>](https://codeigniter.com/ "CodeIgniter")
+[<img src="assets/spring.webp" width="35px"/>](https://spring.io/ "Spring")
+[<img src="assets/rails.webp" width="35px"/>](https://rubyonrails.org/ "Ruby on Rails")
+[<img src="assets/react.webp" width="35px"/>](https://react.dev/ "React")
+[<img src="assets/angular.webp" width="35px"/>](https://angular.dev/ "Angular")
+[<img src="assets/vuejs.webp" width="35px"/>](https://vuejs.org/ "Vue.js")
+[<img src="assets/nodejs.webp" width="35px"/>](https://nodejs.org/ "Node.js")
+
 - Laravel (PHP)
 - CodeIgniter (PHP)
 - Spring (Java)
+- Rails (Ruby)
 - React (JavaScript)
 - React Native (JavaScript)
 - Angular (JavaScript)
@@ -47,18 +64,35 @@ I'm a young Christian, INTJ personality, system developer, musician, chess playe
 - Node.js (JavaScript)
 
 #### Databases
+
+[<img src="assets/mysql.webp" width="35px"/>](https://www.mysql.com/ "MySQL")
+[<img src="assets/postgresql.webp" width="35px"/>](https://www.postgresql.org/ "PostgreSQL")
+[<img src="assets/sqlserver.webp" width="35px"/>](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "Microsoft SQL Server")
+[<img src="assets/oracledb.webp" width="35px"/>](https://www.oracle.com/database/technologies/ "Oracle DB")
+
 - MySQL
 - PostgreSQL
-- Oracle DB
 - SQL Server
+- Oracle DB
 
 #### Tools and Platforms
+
+[<img src="assets/git.webp" width="35px"/>](https://git-scm.com/ "Git")
+[<img src="assets/docker.webp" width="35px"/>](https://www.docker.com/ "Docker")
+[<img src="assets/phpstorm.webp" width="35px"/>](https://www.jetbrains.com/pt-br/phpstorm/ "PhpStorm")
+[<img src="assets/vscode.webp" width="35px"/>](https://code.visualstudio.com/ "Visual Studio Code")
+[<img src="assets/jenkins.webp" width="35px"/>](https://www.jenkins.io/ "Jenkins")
+[<img src="assets/postman.webp" width="35px"/>](https://www.postman.com/ "Postman")
+
 - Git
 - Docker
 - PhpStorm
 - Visual Studio Code
+- Jenkins
+- Postman
 
 #### Other Skills
+
 - Web Development
 - API Development
 - Unit Testing
