@@ -19,9 +19,9 @@ I'm a young Christian, INTJ personality, system developer, musician, chess playe
 
 ## How to reach me
 
-[<img src="assets/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/jeffersonassilva/)
-[<img src="assets/instagram.png" width="3.5%"/>](https://www.instagram.com/jeffersonassilva/)
-<a href="mailto:jeffersonassilva@gmail.com"> <img src="assets/gmail.png" width="3.5%"/> </a>
+[<img src="assets/linkedin.png" width="35px"/>](https://www.linkedin.com/in/jeffersonassilva/)
+[<img src="assets/instagram.png" width="35px"/>](https://www.instagram.com/jeffersonassilva/)
+<a href="mailto:jeffersonassilva@gmail.com"> <img src="assets/gmail.png" width="35px"/> </a>
 
 ## My GitHub stats
 
@@ -41,6 +41,16 @@ I'm a young Christian, INTJ personality, system developer, musician, chess playe
 - Java
 - JavaScript
 - Ruby
+
+#### Markup and Styling
+
+[<img src="assets/html.webp" width="35px" />](https://html.spec.whatwg.org/ "HTML")
+[<img src="assets/css.webp" width="35px"/>](https://www.w3.org/Style/CSS/ "CSS")
+[<img src="assets/tailwindcss.webp" width="35px"/>](https://tailwindcss.com/ "TailwindCSS")
+
+- HTML
+- CSS
+- TailwindCSS
 
 #### Frameworks and Libraries
 
@@ -83,6 +93,7 @@ I'm a young Christian, INTJ personality, system developer, musician, chess playe
 [<img src="assets/vscode.webp" width="35px"/>](https://code.visualstudio.com/ "Visual Studio Code")
 [<img src="assets/jenkins.webp" width="35px"/>](https://www.jenkins.io/ "Jenkins")
 [<img src="assets/postman.webp" width="35px"/>](https://www.postman.com/ "Postman")
+[<img src="assets/tailwindcss.webp" width="35px"/>](https://tailwindcss.com/ "Tailwind CSS")
 
 - Git
 - Docker
@@ -90,6 +101,7 @@ I'm a young Christian, INTJ personality, system developer, musician, chess playe
 - Visual Studio Code
 - Jenkins
 - Postman
+- Tailwind CSS
 
 #### Other Skills
 
